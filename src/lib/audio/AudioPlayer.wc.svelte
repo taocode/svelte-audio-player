@@ -1,3 +1,5 @@
+<svelte:options tag="taocode-audio-player" />
+
 <script>
 	import { audioData } from './audioData.js';
 	

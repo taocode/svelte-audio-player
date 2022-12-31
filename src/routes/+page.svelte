@@ -1,5 +1,5 @@
 <script>
-  import AudioPlayer from '$lib/audio/AudioPlayer.svelte';
+  import AudioPlayer from '$lib/audio/AudioPlayer.wc.svelte';
 import { Headroom } from '@taocode/svelte-headroom'
   import Readme from '../_README.md'
 
